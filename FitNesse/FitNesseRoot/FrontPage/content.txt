@@ -1,0 +1,7 @@
+!1 Welcome to [[FitNesse][FitNesse.FitNesse]]!
+!3 ''The fully integrated stand-alone acceptance testing framework and wiki.''
+
+Welcome to Forests and Monsters! This site tests the business rules of the core game mechanics to make sure everyone has a FANTASTIC adventure!
+
+!contents -R2 -g -p -f -h
+
