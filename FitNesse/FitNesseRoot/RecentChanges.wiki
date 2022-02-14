@@ -1,2 +1,3 @@
+|FrontPage.CoreGame.GameWithOnePlayerAndAutomatedRules||18:08:25 Mon, Feb 14, 2022|
+|FrontPage.CoreGame||18:06:34 Mon, Feb 14, 2022|
 |FrontPage||19:22:38 Mon, Feb 07, 2022|
-|FrontPage.CoreGame||19:20:28 Mon, Feb 07, 2022|

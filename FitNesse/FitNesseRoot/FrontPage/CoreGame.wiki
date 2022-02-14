@@ -1,5 +1,5 @@
 ---
 Suite
 ---
-!1 Test suite X
+!1 Forests and Monsters!
 !contents -R2 -g -p -f -h
